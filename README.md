@@ -1,0 +1,2 @@
+# Practica
+Creando una página.
